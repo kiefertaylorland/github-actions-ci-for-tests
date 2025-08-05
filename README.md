@@ -2,6 +2,8 @@
 
 A minimal test project with a CI pipeline using GitHub Actions.
 
+![CI](https://github.com/kiefertaylorland/github-actions-ci-for-tests/actions/workflows/test.yml/badge.svg)
+
 ## Getting Started
 
 ```bash
