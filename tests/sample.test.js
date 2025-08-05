@@ -1,3 +1,3 @@
-test('adds numbers correctly', ()=> {
-    expect(2 + 3).toBe(5);
+test('this test fails intentionally', ()=> {
+    expect(true).toBe(false);
 });
