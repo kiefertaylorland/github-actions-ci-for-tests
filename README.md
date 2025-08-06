@@ -3,6 +3,8 @@
 A minimal test project with a CI pipeline using GitHub Actions.
 
 ![CI](https://github.com/kiefertaylorland/github-actions-ci-for-tests/actions/workflows/test.yml/badge.svg)
+[![codecov](https://codecov.io/gh/kiefertaylorland/github-actions-ci-foir-tests/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kiefertaylorland/github-actions-ci-for-tests)
+
 
 ## Getting Started
 
