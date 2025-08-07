@@ -4,7 +4,6 @@ A minimal test project with a CI pipeline using GitHub Actions.
 
 ![CI (failing-test)](https://github.com/kiefertaylorland/github-actions-ci-for-tests/actions/workflows/test.yml/badge.svg?branch=demo/failing-test)
 
-
 ## Getting Started
 
 ```bash
